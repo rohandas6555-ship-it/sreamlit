@@ -8,13 +8,3 @@ venv/
 
 # Streamlit
 .streamlit/
-
-# VS Code
-.vscode/
-
-# Node (agar ho)
-node_modules/
-
-# OS
-.DS_Store
-Thumbs.db
